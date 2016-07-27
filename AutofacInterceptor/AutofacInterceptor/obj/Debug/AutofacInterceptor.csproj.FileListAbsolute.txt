@@ -1,0 +1,14 @@
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\AutofacInterceptor.dll.config
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\AutofacInterceptor.dll
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\AutofacInterceptor.pdb
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\Autofac.dll
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\Autofac.Extras.DynamicProxy2.dll
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\Castle.Core.dll
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\nunit.framework.dll
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\Autofac.xml
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\Autofac.Extras.DynamicProxy2.xml
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\Castle.Core.xml
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\bin\Debug\nunit.framework.xml
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\obj\Debug\AutofacInterceptor.csprojResolveAssemblyReference.cache
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\obj\Debug\AutofacInterceptor.dll
+C:\apps\Interceptor\AutofacInterceptor\AutofacInterceptor\obj\Debug\AutofacInterceptor.pdb
